@@ -1,11 +1,10 @@
-# spin the lock clockwise like 3 times until its smooth and stop on the 0
-# pull the shackle. If you are stuck on the 0 when trying to spin clockwise, loosen the tension.
+# spin the lock clockwise like 3 times until it turns smooth. stop on the 0
+# loosen the shackle. If you are stuck on 0 when trying to spin clockwise, loosen the tension.
 # spin the dial clockwise with your eyes closed and note down the numbers that catch in your head
-# change the tension enough to where one number catches on every rotation
-# that number is the sticky number
+# change the tension enough to where one number catches on every rotation. that number is the sticky number
 # now to find your guess number(s) between 0 and 11, reset the dial and start on 0
-# very tighly pull the shackle on 0. If it wiggles between half numbers, (e.g. 39.5 and 0.5) then it is a guess number.
-# Repeat this jiggling process for every number between 0 and 11
+# tention the shackle on 0. if it wiggles between half numbers, (e.g. 39.5 and 0.5) then it is a valid guess number.
+# Repeat this jiggling process for every number between 0 and 11, and you should find your guess number(s)
 
 stickyNumber = int(input("Sticky number: "))
 
